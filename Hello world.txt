@@ -1,2 +1,3 @@
 print("Hi MIr")
 print("Hi All")
+Принт хай
